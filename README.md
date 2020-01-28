@@ -39,7 +39,7 @@ no navegador
 ## Diagrama de arquitetura
 ![Diagrama de arquitetura](https://github.com/JessiiPer/mercado-livre-documentacao/blob/master/arquitetura.png)
 
-## Possíveis Melhorias Futuras
+## Melhorias Futuras
 
 * Utilizar o Zipkin para monitoramento de logs.
 * Deixar o Redis como cache e utilizar um outro banco de dados.
