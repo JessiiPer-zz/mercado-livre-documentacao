@@ -38,7 +38,7 @@ no navegador
 * Docker
 
 ## Diagrama de arquitetura
-![Diagrama de arquitetura](https://
+![Diagrama de arquitetura](https://github.com/JessiiPer/mercado-livre-documentacao/blob/master/arquitetura.png)
 
 ## Autoria
 * Jessica Pereira Rocha
