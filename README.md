@@ -10,7 +10,6 @@ um encurtador de URLs.
 * [Requisitos](#requisitos)
 * [Tecnologia Utilizadas](#tecnologia-utilizadas)
 * [Diagrama de arquitetura](#diagrama-de-arquitetura)
-* [Diagrama de objetos](#diagrama-de-objetos)
 
 ## Requisitos
 
@@ -34,11 +33,18 @@ no navegador
 * Spring Security
 * Spring Sleuth + Papertrail
 * Spring Data
-* Junit 4 + Coverage
+* Junit 4 + Coverage (81,5% de cobertura)
 * Docker
 
 ## Diagrama de arquitetura
 ![Diagrama de arquitetura](https://github.com/JessiiPer/mercado-livre-documentacao/blob/master/arquitetura.png)
+
+## Possíveis Melhorias Futuras
+
+* Utilizar o Zipkin para monitoramento de logs.
+* Deixar o Redis como cache e utilizar um outro banco de dados.
+* Utilizar containers
+
 
 ## Autoria
 * Jessica Pereira Rocha
