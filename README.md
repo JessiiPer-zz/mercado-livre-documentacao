@@ -8,7 +8,7 @@ um encurtador de URLs.
 # Índice
 
 * [Requisitos](#requisitos)
-* [Tecnologia Utilizadas](#tecnologia-utilizadas)
+* [Tecnologias Utilizadas](#tecnologias-utilizadas)
 * [Diagrama de arquitetura](#diagrama-de-arquitetura)
 
 ## Requisitos
